@@ -1,4 +1,10 @@
 <?php 
+<?php 
+<?php 
+<?php 
+<?php 
+<?php 
+<?php 
 session_start();
 require_once("lib.php"); 
 include("user.php");
